@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats
 
-![Arinonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyLonyx&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyLonyx)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Languages and Tools:
 
