@@ -4,5 +4,5 @@
 
 - 📍 18yo
 - 🔭 I’m currently working on Tropolia
-- 📫 Email flylonyx.contact@gmail.com
+- 📫 Email flylonyx@tropolia.fr
 
