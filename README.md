@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 📍 18yo
-- 🔭 I’m currently working on Tropolia
-- 📫 Email flylonyx@tropolia.fr
+- 📍 19yo
+- 🔭 I’m currently working on Tropolia / Mineria
+- 📫 Email flylonyx.contact@gmail.com
 
