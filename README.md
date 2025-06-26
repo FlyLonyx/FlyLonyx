@@ -4,5 +4,3 @@
 
 - 📍 19yo
 - 🔭 I’m currently working on Tropolia / Mineria
-- 📫 Email flylonyx.contact@gmail.com
-
