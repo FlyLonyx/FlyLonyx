@@ -3,4 +3,4 @@
 ## 🚀 About Me
 
 - 📍 19yo
-- 🔭 I’m currently working on Tropolia / Mineria
+- 🔭 I’m currently working on Tropolia
